@@ -1,5 +1,5 @@
 ---
-title: "服务器简易部署 Flask 项目"
+title: "记录一次大作业的 Flask 项目服务器部署"
 subtitle: ""
 description: ""
 slug: ec18fe
@@ -18,7 +18,7 @@ resources:
 # 标签
 tags: ['Flask', 'Python', '服务器', '部署', '代理']
 # 分类
-categories: ["项目"]
+categories: ["web"]
 # 合集(如果下面这一行注释掉，就不会显示系列为空了)
 # collections: [""]
 # 从主页面中去除

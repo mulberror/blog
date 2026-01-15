@@ -75,7 +75,7 @@ pre = """<i class="fa-solid fa-book"></i>"""
 parent = "links"
 post = ""
 name = "笔记"
-url = "https://note.mulbx.top"
+url = "https://note.mulbry.top"
 title = ""
 weight = 81
 

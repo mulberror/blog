@@ -21,7 +21,7 @@ enablePWA = false
 [author]
 name = "Mulberror"
 email = "mulberror@gmail.com"
-link = "https://blog.mulbx.top"
+link = "https://blog.mulbry.top"
 avatar = "/img/author/avatar.webp"
 # gravatarEmail = "mulberror@gmail.com"
 
@@ -87,26 +87,15 @@ peakCount = 10
 orderby = "name"
 
 [customPartials]
-  head = [
-    "custom/header.html"
-  ]
-  menuDesktop = [
-    "inject/translate-menu-desktop.html",
-  ]
-  menuMobile = [
-    "inject/translate-menu-mobile.html",
-  ]
-  profile = [
-    "custom/profile.html",
-  ]
+  head = []
+  menuDesktop = []
+  menuMobile = []
+  profile = []
   aside = []
   comment = []
   footer = []
   widgets = []
-  assets = [
-    "inject/cmpt-flyfish.html",
-    "inject/cmpt-translate.html",
-  ]
+  assets = []
   postFooterBefore = []
   postFooterAfter = []
 

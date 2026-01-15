@@ -46,7 +46,7 @@ I've once built a blog with the Hugo framework before, using the theme PaperMod.
 
 But since most of the posts was lost, and I happened to come across [ryan4yin](https://thiscute.world/) 's blog, I learned about the [FixIt](https://github.com/HEIGE-PCloud/FixIt) theme made by [HEIGE-PCloud](https://pcloud.dev/).
 
-The FixIt theme is very much in line with the style of blog I envisioned at the beginning, so it took me a while to rebuild my personal blog straight away, and in the meantime I also spent a little bit of time learning a little bit of front-end knowledge from scratch, and briefly wrote a humble personal homepage [My Little World](https://www.mulbx.top/).
+The FixIt theme is very much in line with the style of blog I envisioned at the beginning, so it took me a while to rebuild my personal blog straight away, and in the meantime I also spent a little bit of time learning a little bit of front-end knowledge from scratch, and briefly wrote a humble personal homepage [My Little World](https://www.mulbry.top/).
 
 ## Version Information
 - Hugo: v0.136.4

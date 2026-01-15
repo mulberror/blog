@@ -9,7 +9,7 @@ name = "Mulberror"
 [params.header.title]
 # 标题名
 name = """
-Unnoted Melody
+Mulberry's Blog
 """
 pre = "<i class='far fa-edit fa-fw'></i>"
 
@@ -18,7 +18,7 @@ enable = true
 # Gravatar 邮箱，用于优先在主页显示的头像
 # FixIt 更改 | 0.2.7 主页显示的网站标题 (支持 HTML 格式)
 # 头像的链接指向的 URL
-avatarLinkURL = "https://blog.mulbx.top/en/"
+avatarLinkURL = "https://blog.mulbry.top/en/"
 title = "Mulberror's Blog"
 # 主页显示的网站副标题
 subtitle = """Hope one day, you'll be reunited with the one you cherish."""

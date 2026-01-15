@@ -6,14 +6,7 @@
 
 @font-face {
     font-family: 'LXGWWenKai-Regular';
-    src: url('../LXGWWenKai-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'IPix';
-    src: url('../IPix.ttf') format('truetype');
+    src: url('../font/LXGWWenKai-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -22,7 +15,3 @@
 
 $global-font-family: "LXGWWenKai-Regular", sans-serif;
 $code-font-family: "JetBrains Mono", Consolas, monospace;
-
-.header-title {
-    font-family: 'IPix' !important;
-}

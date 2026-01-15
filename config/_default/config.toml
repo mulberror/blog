@@ -1,15 +1,15 @@
-baseURL = "https://blog.mulbx.top/"
+baseURL = "https://blog.mulbry.top/"
 # [en, zh-cn, fr, ...] 设置默认的语言
 defaultContentLanguage = "zh-cn"
 # 网站语言, 仅在这里 CN 大写
 languageCode = "zh-CN"
 # 是否包括中日韩文字
-title = "Unnoted Melody"
+title = "Mulberry's Blog"
 
 hasCJKLanguage = true
 # 网站标题
 # 更改使用 Hugo 构建网站时使用的默认主题
-theme = ["FixIt", "cmpt-flyfish", "cmpt-translate"]
+theme = ["FixIt"]
 
 # 网站关键词
 keywords = [
@@ -19,7 +19,7 @@ keywords = [
   "full-stack",
   "computer science",
   "mathematics",
-  "Unnoted Melody"
+  "Mulberry's Blog"
 ]
 
 # FixIt 新增 | 0.2.0 日期格式

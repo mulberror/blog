@@ -42,7 +42,7 @@ toc:
 
 不过因为大部分存货都丢失了，再加上碰巧见看到了 [ryan4yin](https://thiscute.world/) 大佬的博客，从而了解到了 LeaveIt 系的主题以及 [Lruihao](https://lruihao.cn/) 大佬制作的 [FixIt](https://fixit.lruihao.cn/zh-cn/) 主题。
 
-FixIt 主题非常符合我一开始预想的博客样式，所以就直接花了一段时间进行了个人博客的重建，并且在这个期间还花了一点时间从零学了点前端知识，简单地写了一个简陋的个人主页 [My Little World](https://www.mulbx.top/)。
+FixIt 主题非常符合我一开始预想的博客样式，所以就直接花了一段时间进行了个人博客的重建，并且在这个期间还花了一点时间从零学了点前端知识，简单地写了一个简陋的个人主页 [My Little World](https://www.mulbry.top/)。
 
 <!--more-->
 
