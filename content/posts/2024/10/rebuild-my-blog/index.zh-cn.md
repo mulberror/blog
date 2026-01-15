@@ -18,7 +18,7 @@ resources:
 # 标签
 tags: ["hugo", "vercel", "博客"]
 # 分类
-categories: ["建站"]
+categories: ["网站"]
 # 系列
 collections: ["小站重生记"]
 # 从主页面中去除

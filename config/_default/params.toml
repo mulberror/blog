@@ -22,7 +22,7 @@ enablePWA = false
 name = "Mulberror"
 email = "mulberror@gmail.com"
 link = "https://blog.mulbry.top"
-avatar = "/img/author/avatar.webp"
+avatar = "/image/author/avatar.webp"
 # gravatarEmail = "mulberror@gmail.com"
 
 # FixIt 新增 | 0.2.0 List (目录或标签) 页面配置
@@ -45,7 +45,7 @@ enable = true
 # Gravatar 邮箱, 用于优先在主页显示的头像
 # gravatarEmail = "mulberror@gmail.com"
 # 主页显示头像的 URL
-avatarURL = "/img/author/avatar.webp"
+avatarURL = "/image/author/avatar.webp"
 # 将你的头像文件放置于 static 或者 assets 目录下
 # 文件路径是相对于 static 或者 assets 目录的
 
@@ -446,8 +446,8 @@ images = []
 # Publisher info
 # 出版者信息
 [page.seo.publisher]
-name = "mulberror"
-logoUrl = "/img/author/avatar.webp"
+name = "mulberry"
+logoUrl = "/image/author/avatar.webp"
 # Related content config
 # 相关文章推荐配置
 [page.related]

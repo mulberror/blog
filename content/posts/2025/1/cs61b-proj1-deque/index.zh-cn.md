@@ -1,5 +1,5 @@
 ---
-title: "CS61B Proj1: 链表和双端队列及简单应用"
+title: "「CS61B Proj1」链表和双端队列及简单应用"
 subtitle: ""
 description: ""
 slug: 7c3eb9

@@ -1,5 +1,5 @@
 ---
-title: "CS61B Proj0: 2048"
+title: "「CS61B Proj0」2048"
 subtitle: ""
 description: ""
 slug: 5793a4

@@ -18,7 +18,7 @@ resources:
 # 标签
 tags: ['Flask', 'Python', '服务器', '部署', '代理']
 # 分类
-categories: ["web"]
+categories: ["网站"]
 # 合集(如果下面这一行注释掉，就不会显示系列为空了)
 # collections: [""]
 # 从主页面中去除

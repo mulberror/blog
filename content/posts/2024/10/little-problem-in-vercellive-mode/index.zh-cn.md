@@ -16,7 +16,7 @@ resources:
 # 标签
 tags: ["Vercel", "博客", "Cookie"]
 # 分类
-categories: ["建站"]
+categories: ["网站"]
 # 系列(如果下面这一行注释掉，就不会显示系列为空了)
 collections: ["小站重生记"]
 # 从主页面中去除
