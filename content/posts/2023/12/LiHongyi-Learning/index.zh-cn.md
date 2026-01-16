@@ -1,11 +1,11 @@
 ---
-title: "李宏毅机器学习课程听课记录"
+title: "李宏毅机器学习 课程听课记录"
 subtitle: ""
 description: ""
 slug: 333538
 date: 2023-12-20T15:37:19+08:00
 lastmod: 2023-12-20T15:37:19+08:00
-draft: true
+draft: false
 
 resources:
 # 文章特色图片
@@ -118,7 +118,7 @@ ChatGPT，Chat：聊天，G：Generative，P：Pre-trained，T：[Transformer](h
 
 解决该回归问题的步骤：
 
-1. 构建模型（也就是得到一组函数 $f(当前数据x_i)=y$）
+1. 构建模型（也就是得到一组函数 $f(x_i)=y$）
 线性模型（lLinear model）：$y=b+\sum w_i x_i$，其中的取出的 $x_i$ 叫做 feature，$w_i$ 叫做 weight，$b$ 叫做 bias。
 
 2. 计算 Goodness of Function。
