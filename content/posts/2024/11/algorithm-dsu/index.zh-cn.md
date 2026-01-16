@@ -20,7 +20,7 @@ tags: ['数据结构', '并查集', '图论']
 # 分类
 categories: ["算法"]
 # 合集(如果下面这一行注释掉，就不会显示系列为空了)
-collections: ["竞赛算法"]
+collections: ["算法竞赛"]
 # 从主页面中去除
 hiddenFromHomePage: false
 # 从搜索中去除
