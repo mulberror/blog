@@ -1,5 +1,5 @@
 ---
-title: "李宏毅机器学习 课程听课记录"
+title: "「李宏毅机器学习」课程听课记录"
 subtitle: ""
 description: ""
 slug: 333538
