@@ -3,8 +3,8 @@ title: "用 Hugo + Vercel 重建博客"
 subtitle: ""
 description: ""
 slug: e64b61
-date: 2024-10-22T00:51:43+08:00
-lastmod: 2024-10-24T00:51:43+08:00
+date: 2024-07-22T00:51:43+08:00
+lastmod: 2024-07-24T00:51:43+08:00
 draft: false
 
 resources:
