@@ -25,8 +25,8 @@ highlightTag = "em"
 absoluteURL = false
 [search.algolia]
 index = "en_index"
-appID = "MXP1WFVWGE"
-searchKey = "e718147816b4e89d6799cf290fa03961"
+appID = "08DB6H5OEN"
+searchKey = "b35b3f8eb104836e829f6e411dea6c57"
 
 [footer.siteTime]
   enable = true
