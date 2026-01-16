@@ -1,3 +1,11 @@
+# Mulberry's Hugo Blog
+
+## 提交 commit 规范
+
+- `newpost [post name]`：创建新文章
+- `modify [post name]`：修改文章内容
+- `config`：更改博客基本设置
+- `feat`：博客添加新功能
 
 ## 本地预览
 
