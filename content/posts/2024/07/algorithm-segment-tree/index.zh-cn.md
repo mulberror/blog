@@ -1,10 +1,10 @@
 ---
-title: 线段树 - 基础知识（一）
+title: 「线段树」基础知识（一）
 subtitle: ""
 description: ""
 slug: 7b23d6
-date: 2024-11-02T03:03:54+08:00
-lastmod: 2024-11-02T03:03:54+08:00
+date: 2024-07-02T03:03:54+08:00
+lastmod: 2024-07-02T03:03:54+08:00
 draft: false
 
 resources:

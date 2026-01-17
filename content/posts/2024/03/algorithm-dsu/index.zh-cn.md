@@ -1,10 +1,10 @@
 ---
-title: "并查集 - 基础知识"
+title: "「并查集」基础知识"
 subtitle: ""
 description: ""
 slug: 9df9fb
-date: 2024-11-13T15:12:10+08:00
-lastmod: 2024-11-13T15:12:10+08:00
+date: 2024-03-13T15:12:10+08:00
+lastmod: 2024-03-13T15:12:10+08:00
 draft: false
 
 resources:

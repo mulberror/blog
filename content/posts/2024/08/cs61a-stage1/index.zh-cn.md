@@ -3,8 +3,8 @@ title: "「UCB CS61A 课程学习阶段性小结一」Python 基础语法"
 subtitle: ""
 description: ""
 slug: 7e6684
-date: 2024-11-05T12:24:36+08:00
-lastmod: 2024-11-05T12:24:36+08:00
+date: 2024-08-05T12:24:36+08:00
+lastmod: 2024-08-05T12:24:36+08:00
 draft: false
 
 resources:
